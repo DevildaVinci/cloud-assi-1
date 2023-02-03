@@ -1,0 +1,20 @@
+.Back-ground{
+  background-color: beige;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: auto;
+  padding: 10px;
+}
+
+.Card {
+  width: 40vw;
+  background-color: rgb(255, 114, 114);
+  border-radius: 5%;
+  height: 90vh;
+}
+
+.head{
+  text-align: center;
+}
