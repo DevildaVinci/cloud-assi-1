@@ -1,0 +1,18 @@
+.task {
+    display: flex;
+    flex-direction: row;
+    padding: 12px;
+}
+li {
+    list-style: none;
+}
+.disp {
+    text-decoration-line: underline;
+    background-color: white;
+}
+.del {
+    border-radius: 100%;
+}
+.del:hover {
+    background-color: red;
+}
