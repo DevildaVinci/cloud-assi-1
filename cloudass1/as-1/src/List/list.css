@@ -1,0 +1,17 @@
+.task {
+    display: flex;
+    flex-direction: row;
+    padding: 12px;
+}
+li {
+    list-style: none;
+}
+.disp {
+    text-decoration-line: underline;
+}
+.del {
+    border-radius: 100%;
+}
+.del:hover {
+    background-color: red;
+}
