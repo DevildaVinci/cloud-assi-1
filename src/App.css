@@ -1,0 +1,40 @@
+.Back-ground{
+  background-color: aquamarine;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: auto;
+  padding: 10px;
+}
+
+.Card {
+  width: 40vw;
+  background-color: white;
+  border-radius: 5%;
+  height: 90vh;
+  border: 2.5px;
+  border-color: rgb(11, 137, 137);
+}
+
+input {
+  background-color: white;
+  height: 1.5rem;
+  border-top: 13px;
+  border-left: 13px;
+  border-right: 13px;
+  border-color: rgb(16, 122, 122);
+}
+
+.add {
+  border: none;
+  height: 1.5rem;
+  width: 5rem;
+}
+
+.head{
+  text-align: center;
+}
+h1{
+  background-color: aqua;
+}
